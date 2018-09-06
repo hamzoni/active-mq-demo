@@ -2,9 +2,9 @@
 docker-compose up
 
 ## Postman
-POST: http://localhost:8090/
-Header: [{"key":"Content-Type","value":"application/json"}]
-Body:
+1. POST: http://localhost:8090/
+2. Header: "Content-Type":"application/json"
+3. Body:
 {
   "from":"you",
   "to":"me",

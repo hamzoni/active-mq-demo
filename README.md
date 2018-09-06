@@ -1,4 +1,5 @@
 # active-mq-demo
+## Run application
 docker-compose up
 
 ## Postman
